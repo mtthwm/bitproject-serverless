@@ -1,1 +1,2 @@
 ## About Me
+Hi, I'm Matthew Morales. I'm currently studying at the University of Utah, majoring in Computer Science with a Chinese language minor. I worked at a small web development company for 3 years, where I learned a lot about JavaScript, Python, and even had some project management experience. I love coding, especially game programming because I love to solve problems and develop products that people can interact with.
