@@ -1,6 +1,4 @@
 // code your `hello` function here!
-const hello = () => {
-    return "Hello World";
-}
+const hello = () => "Hello World";
 
-export {hello};
+module.exports = hello;
