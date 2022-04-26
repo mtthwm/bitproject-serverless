@@ -1,10 +1,11 @@
+// This is a function for extremely basic, non-automated testing for my functions.
 const main = () => {
     console.log("=== TESTING late.js... ===")
     const running_late = require('./late.js').running_late;
     const dates_to_try = [
-        new Date(2022, 3, 25, 17, 49),
-        new Date(2022, 3, 25, 23, 42),
-        new Date(2022, 3, 25, 21, 26)
+        "December 17, 1995 03:24:00",
+        "December 17, 1995 21:24:00",
+        "December 17, 1995 23:24:00",
     ];
     
     for (let i = 0; i < dates_to_try.length; i++)
