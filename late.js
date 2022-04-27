@@ -2,7 +2,7 @@
 const running_late = (date) => {
     const dateObject = new Date(date);
     // Get hour in 24 hour format.
-    // 10:00 pm corresponds to 21.
+    // 10:00 pm corresponds to 22.
     const hour = dateObject.getHours();
 
     if (hour >= 22)
