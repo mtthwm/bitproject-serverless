@@ -5,7 +5,7 @@ const running_late = (date) => {
     // 10:00 pm corresponds to 21.
     const hour = dateObject.getHours();
 
-    if (hour >= 21)
+    if (hour >= 22)
     {
         return "It is late!"
     } 
