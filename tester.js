@@ -6,12 +6,12 @@ const main = () => {
         "December 17, 1995 03:24:00",
         "December 17, 1995 21:24:00",
         "December 17, 1995 23:24:00",
+        "December 17, 1995 07:00:00"
     ];
     
     for (let i = 0; i < dates_to_try.length; i++)
     {
-        const date = dates_to_try[i];
-        console.log(date.toLocaleString(), running_late(date));
+        const dateString = dates_to_try[i];
     }
 };
 
